@@ -1,0 +1,6 @@
+Tool for processing data obtained from the laser system.
+
+Lead application developers: Christian Heimlich, Traz Dackowski. 
+Algorithm Development Team: Bless Varghese, Christine Neppel, Saima Mahmud , Traz Daczkowski , Christian Heimlich
+Research, Theory Crafting, and Statistics Team: Gary Liedtka-Bizuga, Jake Schwartz, Edward Freisinger 
+Guidence: Dr. Beena Sukumaran, Dr. Ravi Ramachandran
